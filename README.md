@@ -1,4 +1,4 @@
-# DevOps Homnmente Assig
+# DevOps Home Assignment
 
 ### Scenario 2 ###
 
